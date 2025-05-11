@@ -68,4 +68,4 @@ Follow the same pattern to install initial data for other applications.
 - [Linkedin](linkedin.com/in/tareqmonwer)
 - [Twitter](https://twitter.com/TareqMonwerDPI)
 - [Github](https://github.com/TareqMonwer)
-- [Website](https://www.tareqmonwer.com)
+- [Website](https://www.tareqmonwer.com)# School-management-
